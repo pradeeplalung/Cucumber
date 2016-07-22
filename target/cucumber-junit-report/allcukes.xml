@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" tests="2">
+<testcase classname="Life of IT Developer" name="I am a java developer" time="0.093908">
+<system-out><![CDATA[Given I work in "microsoft".........................................................passed
+When I meet "Bill Gates"..........................................................passed
+Then I "hesitate"..............................................................passed
+But he is a "good" person..........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Life of IT Developer" name="I am a QTP developer" time="0.000413">
+<system-out><![CDATA[Given I work in "Google"..........................................................passed
+When I meet "Satya Paichai".........................................................passed
+Then I "node"................................................................passed
+But he is a "smart" person.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

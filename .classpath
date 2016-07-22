@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/Cucumber/Jar/Cucumber_Jar_Working/cucumber-core-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/Cucumber/Jar/Cucumber_Jar_Working/cucumber-html-0.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/Cucumber/Jar/Cucumber_Jar_Working/cucumber-java-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/Cucumber/Jar/Cucumber_Jar_Working/cucumber-junit-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/Cucumber/Jar/Cucumber_Jar_Working/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/Cucumber/Jar/Cucumber_Jar_Working/jchronic-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/Cucumber/Jar/Cucumber_Jar_Working/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selenium/Cucumber/Jar/Cucumber_Jar_Working/log4j-1.2.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
